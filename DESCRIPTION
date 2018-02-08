@@ -1,0 +1,9 @@
+Package: absmap
+Title: Working with geospatial data.
+Version: 0.0.0.9000
+Authors@R: person("Alexander", "Millard", email = "alxmilla@gmail.com", role = c("aut", "cre"))
+Description: This is evolving....
+Depends: R (>= 3.4.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
